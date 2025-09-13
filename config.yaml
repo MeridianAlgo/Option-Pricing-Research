@@ -1,0 +1,18 @@
+# Sample config for batch option pricing jobs
+
+ticker: AAPL
+scenario:
+  spot_range: [120, 180]
+  vol_range: [0.15, 0.35]
+  rate_range: [0.01, 0.05]
+  time_range: [0.05, 0.5]
+  n_points: 5
+ml:
+  model: MLP
+  epochs: 100
+  lr: 0.001
+report:
+  generate_html: true
+  generate_excel: true
+  scenario_analysis: true
+  diagnostics: true
