@@ -115,12 +115,16 @@ streamlit run dashboard.py
 ## 📚 Mathematical Background
 - See docstrings and code for model details and references.
 
-## 🙏 Acknowledgments
-- Black-Scholes model by Fischer Black, Myron Scholes, and Robert Merton
-- Binomial model by Cox, Ross, and Rubinstein
-- Monte Carlo methods for financial applications
-- Heston, Merton, SABR, Variance Gamma, and other advanced models
+---
+## A Quick Disclaimer
+
+This material is for informational purposes only and does not constitute financial, investment, legal, tax, or accounting advice. It is not intended to provide personalized recommendations or solicitations to buy or sell any securities or financial products.
+Investing involves substantial risks, including the potential loss of principal. Market conditions, economic factors, and other variables can lead to volatility and losses. Past performance is not indicative of future results; historical returns do not guarantee similar outcomes.
+Always consult a qualified financial advisor, attorney, or tax professional to assess your specific situation, risk tolerance, and objectives before making any investment decisions. We assume no liability for actions taken based on this information.
 
 ---
 
-**Note:** This codebase is continuously evolving. For the latest features, see the [GitHub repo](https://github.com/MeridianAlgo/Option-Pricing-Research).
+**Made with ❤️ by Quantum Meridian (A MeridianAlgo Team)**
+
+*Empowering the next generation of quantitative finance professionals through hands-on learning and practical implementation.*
+
