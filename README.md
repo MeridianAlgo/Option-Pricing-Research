@@ -123,8 +123,15 @@ Investing involves substantial risks, including the potential loss of principal.
 Always consult a qualified financial advisor, attorney, or tax professional to assess your specific situation, risk tolerance, and objectives before making any investment decisions. We assume no liability for actions taken based on this information.
 
 ---
+## Licenses 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
+---
 
 **Made with ❤️ by Quantum Meridian (A MeridianAlgo Team)**
 
 *Empowering the next generation of quantitative finance professionals through hands-on learning and practical implementation.*
+
+
 
